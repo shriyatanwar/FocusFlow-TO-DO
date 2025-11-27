@@ -4,16 +4,16 @@
 ## today 
 ![List View Screenshot](images/image1.png)
 ### List View
-![List View Screenshot](images/Screenshot%202025-11-27%20at%201.36.31%20PM.png)
+![List View Screenshot](images/image2.png)
 
 ### Kanban Board
-![Kanban View Screenshot](images/Screenshot%202025-11-27%20at%201.36.45%20PM.png)
+![Kanban View Screenshot](images/image3.png)
 
 ### Calendar View
 ![Calendar View Screenshot](images/Screenshot%202025-11-27%20at%201.36.54%20PM.png)
 
 ### Analytics Dashboard
-![Analytics View Screenshot](images/Screenshot%202025-11-27%20at%201.37.01%20PM.png)
+![Analytics View Screenshot](images/image5.png)
 
 ## ✨ Features
 

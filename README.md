@@ -2,7 +2,7 @@
 
 **FocusFlow** is an advanced productivity To-Do application built with React, designed to help you stay focused and organized. It features multiple views, natural language task input, Pomodoro timer, analytics, and much more!
 ## today 
-![List View Screenshot](images/Screenshot%202025-11-27%20at%201.36.03%20PM.png)
+![List View Screenshot](images/image1.png)
 ### List View
 ![List View Screenshot](images/Screenshot%202025-11-27%20at%201.36.31%20PM.png)
 
